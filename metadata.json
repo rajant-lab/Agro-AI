@@ -1,0 +1,6 @@
+{
+  "name": "Agronomic AI Agent",
+  "description": "An advanced agronomics and precision agriculture agent that analyzes Raw Meteorological Forecasts against crop stress thresholds to gauge extreme weather risks and formulate mitigative action timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
